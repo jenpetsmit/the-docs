@@ -1,35 +1,24 @@
 ---
-title: Home
+title:  Welcome to Jen Smith's GitHub Site
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+#
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Documentation Samples
 
-More specifically, the created site:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+[My Updated E-Utilities API Documentation (In Progress)](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md)
+  - Here is the [link to the **current** E-Utilities API documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/). The documentation was written many years. My task is to re-organize the information and present it in a way that is more easier to understand. The team is not currently equiped to develop a website that enables interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of Dec 2024). I attempted to write my first API yaml, which is included in the link above.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+[My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki)
+  - Here is the [link to the **current** SRA Toolkit Wiki](https://github.com/ncbi/sra-tools/wiki). My task was to edit a few pages to serve an audience that includes non-developers. My work is linked above. The team decided the work was too detailed for the GitHub and is currently scheduled to be added to the SRA website.
+ 
+[My Detailed Version of How to Download and Use the STAT Tool](https://github.com/jenpetsmit/STAT_Tool/blob/main/STAT_Tool.md)
+  - Here is the [link to the **current** version that does not have instructions to download the databases for personal use](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax). My task here was to create instructions for non-developers to download and use the STAT Tool. The developer team decided the work was too detailed and the project manager is no longer with the company, so the future of this work is on hold.
 
-To get started with creating a site, simply:
+## Other work
+* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmit/python/blob/main/webcrawler.md) 
+* [My first QA Script](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/QA.md)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
