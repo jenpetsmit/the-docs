@@ -2,18 +2,10 @@ title: Jen Smith's Git Portfolio
 description: As a technical writer learning Linux and GibHub, this space hosts some samples of my technical writing work.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://https://github.com/jenpetsmit/jenpetsmit.github.io/jens-portfolio
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 
 
-title: YOUR TITLE
-description: YOUR DESCRIPTION
-theme: just-the-docs
-
-url: https://https://github.com/jenpetsmit/jenpetsmit.github.io/jens-portfolio
-
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/jenpetsmit/jens-portfolio
