@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Attempt to Write a YAML in OpenAPI"
+title: "First Attempt to Write a YAML in OpenAPI"
 permalink: /yaml
+---
 
 # eutils.yml
 **A Work in Progress**
