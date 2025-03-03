@@ -20,5 +20,7 @@ layout: home
 
 ## Other work
 * [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmit/python/blob/main/webcrawler.md) 
-* [My first QA Script](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/QA.md)
+* [My first QA Script - goes to github.io side](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/QA.md)
+* [testing QA on the Just the Docs side without .md in link](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA)
+* * [testing QA on the Just the Docs side with .md in the link](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA.md)
 
