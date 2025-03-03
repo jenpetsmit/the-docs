@@ -7,5 +7,16 @@ url: https://https://github.com/jenpetsmit/jenpetsmit.github.io/jens-portfolio
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
 
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
